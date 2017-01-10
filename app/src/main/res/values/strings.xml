@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CS Time Table</string>
+    <string name="country_prompt">Choose Day</string>
+
+    <string-array name="country_arrays">
+        <item>Today</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+
+    <string-array name="class_list">
+        <item>S3 CS1</item>
+        <item>S3 CS2</item>
+        <item>S5 CS1</item>
+        <item>S5 CS2</item>
+        <item>S7 CS1</item>
+        <item>S7 CS2</item>
+    </string-array>
+</resources>
